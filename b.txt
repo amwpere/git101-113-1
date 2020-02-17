@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 update b.txt
+=======
+This is b.txt edit
+>>>>>>> 4749249feda494481e0df003aed7346daa2edf4d
